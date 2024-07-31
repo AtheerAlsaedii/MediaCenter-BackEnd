@@ -7,14 +7,14 @@ PostgreSQL for the database.
 - Video Management: Users can browse videos. Admins can add new videos.
 
 ### Technologies
-1 - ASP.NET Core: Framework for building the web API.
-2 - C#: Language used for server-side logic.
-3 - Entity Framework Core: ORM for data management.
-4 - PostgreSQL Server: Database for storing metadata.
+- ASP.NET Core: Framework for building the web API.
+- C#: Language used for server-side logic.
+- Entity Framework Core: ORM for data management.
+- PostgreSQL Server: Database for storing metadata.
 
-### vProject Structure
-Models: Defines data structures for photos and videos.
-Data: Configures Entity Framework Core for database operations.
-Controllers: Handles API requests for photo and video management.
-Services: Implements business logic and data interactions.
-Configuration: Manages application settings and database connections.
+### Project Structure
+- Models: Defines data structures for photos and videos.
+- Data: Configures Entity Framework Core for database operations.
+- Controllers: Handles API requests for photo and video management.
+- Services: Implements business logic and data interactions.
+- Configuration: Manages application settings and database connections.
