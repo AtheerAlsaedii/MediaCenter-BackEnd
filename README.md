@@ -6,7 +6,7 @@ PostgreSQL for the database.
 1- Photo Management: Users can browse photos. Admins can add new photos.
 2- Video Management: Users can browse videos. Admins can add new videos.
 
--Technologies
+- Technologies
 1- ASP.NET Core: Framework for building the web API.
 2- C#: Language used for server-side logic.
 3- Entity Framework Core: ORM for data management.
