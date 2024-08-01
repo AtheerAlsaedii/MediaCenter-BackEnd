@@ -14,7 +14,6 @@ PostgreSQL for the database.
 
 ### Project Structure
 - Models: Defines data structures for photos and videos.
-- Data: Configures Entity Framework Core for database operations.
+- Entity Framework: Configures Entity Framework Core for database operations.
 - Controllers: Handles API requests for photo and video management.
 - Services: Implements business logic and data interactions.
-- Configuration: Manages application settings and database connections.
